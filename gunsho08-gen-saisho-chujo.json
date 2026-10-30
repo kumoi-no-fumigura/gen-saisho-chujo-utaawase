@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gen-saisho-chujo-utaawase",
  "yomi": "げんさいしょうちゅうじょうけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（二十番・恋）",
+  "era": "康和2年（1100）4月28日",
+  "author": "源宰相中将家",
+  "desc": "源宰相中将の家で、初恋・会恋・経年恋など恋の題で詠まれた歌合。宰相中将・刑部卿・左京権大夫・藤原基俊・備中守仲実・若狭阿闍梨らが番えられる。"
+ },
  "editions": [
   {
    "pid": "1879502",
